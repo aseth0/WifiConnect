@@ -4,6 +4,6 @@
 A simple tool to connect to an acces point via command line
 
 - Write only the name of the interface to do a simple scan of a wifi networks
-          Example: WifiConnect wlan0
+         `` **Example:** WifiConnect wlan0 ``
 - write the interface, essid and password to establish the connection to the network
-          Example: WifiConnect wlan0 NetworkName Passwd_plaintext
+         `` **Example:** WifiConnect wlan0 NetworkName Passwd_plaintext ``
