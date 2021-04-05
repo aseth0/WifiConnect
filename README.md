@@ -1,3 +1,7 @@
 # WifiConnect
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.itpedia.nl%2F2018%2F07%2F12%2Fwifi-en-bluetooth-wat-is-het-verschil%2F&psig=AOvVaw0u4luv8okY-rQuL_Eyc3lN&ust=1617704485466000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCk8_nw5u8CFQAAAAAdAAAAABAD"</a>
+![wifi](https://user-images.githubusercontent.com/69731971/113564657-099c2700-960a-11eb-8a36-5ac019de934b.png)
+
 A simple tool to connect to an acces point vie command line
+
+- Write only the name of the interface to do a simple scan of a wifi networks
+- write the interface, essid and password to establish the connection to the network
